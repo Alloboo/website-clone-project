@@ -1,2 +1,2 @@
-# website-clone-project
-DREAMUS website clone project
+# website-project
+Django website project
